@@ -1,7 +1,9 @@
-# example-repo
+# OOP-Classes
 
-## Project Name:
-example-repo
+## Email Simulator (Python OOP Project)
 
-## Description:
-This is a simple project to demonstrate version control using Git. It shows how to push code to a remote GitHub repository and manage changes using Git.
+This is a simple console-based email simulator that demonstrates Object-Oriented Programming in Python. It allows you to:
+
+- Simulate receiving emails.
+- List and read emails.
+- Track which emails have been read.
